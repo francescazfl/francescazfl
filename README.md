@@ -5,4 +5,4 @@
  -  Feature Reuse and Scaling: Understanding Transfer Learning with Protein Language Models ([code](https://github.com/microsoft/protein-transfer), [paper](https://proceedings.mlr.press/v235/li24a.html))
 
 **Featured Projects I Contributed To:**
- -  LevSeq: Rapid Generation of Sequence-Function Data for Directed Evolution and Machine Learning ([sequencing pipeline](https://github.com/fhalab/LevSeq), [sequence-function data visulization](https://github.com/fhalab/LevSeq_db), [website](https://levseqdb.streamlit.app/), [paper](https://www.biorxiv.org/content/10.1101/2024.09.04.611255v1?rss=1))
+ -  LevSeq: Rapid Generation of Sequence-Function Data for Directed Evolution and Machine Learning ([sequencing pipeline](https://github.com/fhalab/LevSeq), [sequence-function data visulization](https://github.com/fhalab/LevSeq_db), [website](https://levseqdb.streamlit.app/), [paper](https://pubs.acs.org/doi/10.1021/acssynbio.4c00625))
