@@ -1,6 +1,7 @@
  I am a Bioengineering Ph.D. student at Caltech, currently focusing on the development and evaluation of machine learning-assisted protein engineering tools, co-advised by Frances Arnold and Yisong Yue. Additionally, I have collbaorated with Kevin K. Yang, Alex X. Lu, and Ava P. Amini during my summer internship at Microsoft Research New England. I am also passionate about making impactful computational tools accessible to wet-lab scientists and engineers.
 
 **Featured Projects Led by Me:**
+ -  Substrate-Aware Zero-Shot Predictors for Non-Native Enzyme Activities ([code](https://github.com/fhalab/substrate_aware_zs), [paper](https://openreview.net/forum?id=IqPlnXw1BJ))
  -  Evaluation of Machine Learning-Assisted Directed Evolution Across Diverse Combinatorial Landscapes ([code](https://github.com/fhalab/SSMuLA), [paper](https://www.biorxiv.org/content/10.1101/2024.10.24.619774v1))
  -  Feature Reuse and Scaling: Understanding Transfer Learning with Protein Language Models ([code](https://github.com/microsoft/protein-transfer), [paper](https://proceedings.mlr.press/v235/li24a.html))
 
